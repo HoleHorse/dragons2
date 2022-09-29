@@ -1,1 +1,1 @@
-# dragons2
+# dragons2 strategy pattern implementation example
